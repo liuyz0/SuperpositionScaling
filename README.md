@@ -12,7 +12,7 @@ The code of the following figure is ['./exp/exp-17.py'](./exp/exp-17.py)
 
 ## The toy model
 
-We use Anthropic's toy model of superposition, adding weight decay or growth to control the degree superposition.
+We use Anthropic's toy model of superposition, adding weight decay or growth to control the degree of superposition.
 
 <p align="center" width="100%">
 <img src="./figures/Fig-2-2.png" alt="Alt Text" style="width:100%; min-width: 200px; display: block; margin: auto;">
@@ -40,7 +40,7 @@ We analyze the data from ['./exp/exp-17.py'](./exp/exp-17.py), ['./exp/exp-10.py
 
 ## Weak superposition regime
 
-In the weak superposition regime (weight decay is large), the loss is well described by the expected number of activated but unleared features, which is a power law once the feature distribution is.
+In the weak superposition regime (weight decay is large), the loss is well described by the expected number of activated but unlearned features, which is a power law once the feature distribution is.
 
 The data are from ['./exp/exp-10.py'](./exp/exp-10.py) and ['./exp/exp-10-3.py'](./exp/exp-10-3.py).
 
